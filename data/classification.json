@@ -1,0 +1,564 @@
+{
+  "version": 1,
+  "outliers": [
+    {
+      "id": 26685958,
+      "title": "Beethoven: Symphony No. 7 in A Major, Op. 92: II. Allegretto",
+      "artist": "London Symphony Orchestra, Antal Doráti",
+      "note": "classical, stays in My Music"
+    }
+  ],
+  "assignments": {
+    "80s & Retro Pop": [
+      {
+        "id": 61208534,
+        "title": "Another Day in Paradise (2016 Remaster)",
+        "artist": "Phil Collins"
+      },
+      {
+        "id": 228162639,
+        "title": "Big in Japan (2019 Remaster)",
+        "artist": "Alphaville"
+      },
+      {
+        "id": 85733695,
+        "title": "Come On Eileen",
+        "artist": "Dexys Midnight Runners"
+      },
+      {
+        "id": 19361867,
+        "title": "Down Under",
+        "artist": "Men At Work"
+      },
+      {
+        "id": 1568993,
+        "title": "Enola Gay",
+        "artist": "Orchestral Manoeuvres In The Dark (OMD)"
+      },
+      {
+        "id": 3138061,
+        "title": "Eternal Flame",
+        "artist": "The Bangles, Susanna Hoffs"
+      },
+      {
+        "id": 261400,
+        "title": "Gloria",
+        "artist": "Laura Branigan"
+      },
+      {
+        "id": 243083,
+        "title": "Goldener Reiter",
+        "artist": "Joachim Witt"
+      },
+      {
+        "id": 38963631,
+        "title": "Happy Nation",
+        "artist": "Ace of Base"
+      },
+      {
+        "id": 1320495,
+        "title": "Holding Out for a Hero",
+        "artist": "Bonnie Tyler"
+      },
+      {
+        "id": 55361356,
+        "title": "Macumba",
+        "artist": "Jean-Pierre Mader"
+      },
+      {
+        "id": 125909553,
+        "title": "Mad World",
+        "artist": "Sean McCole"
+      },
+      {
+        "id": 169150,
+        "title": "Major Tom (...völlig losgelöst)",
+        "artist": "Peter Schilling"
+      },
+      {
+        "id": 85643680,
+        "title": "Moskau",
+        "artist": "Dschinghis Khan"
+      },
+      {
+        "id": 1830680,
+        "title": "Ohne Dich (schlaf' ich heut' Nacht nicht ein)",
+        "artist": "Münchener Freiheit"
+      },
+      {
+        "id": 396593917,
+        "title": "Our House",
+        "artist": "Madness"
+      },
+      {
+        "id": 222649,
+        "title": "Sounds Like a Melody",
+        "artist": "Alphaville"
+      },
+      {
+        "id": 63091141,
+        "title": "Take Off, Baby! feat. Orlando",
+        "artist": "Ronald Christoph"
+      },
+      {
+        "id": 1379251,
+        "title": "Too Shy",
+        "artist": "Kajagoogoo"
+      },
+      {
+        "id": 135171786,
+        "title": "Total Eclipse of the Heart",
+        "artist": "Bonnie Tyler"
+      },
+      {
+        "id": 68493632,
+        "title": "Tragedy",
+        "artist": "Bee Gees"
+      },
+      {
+        "id": 95115687,
+        "title": "You're a Woman (Long Version)",
+        "artist": "Bad Boys Blue"
+      },
+      {
+        "id": 17559,
+        "title": "You're My Heart, You're My Soul",
+        "artist": "Modern Talking"
+      },
+      {
+        "id": 7822270,
+        "title": "Touch in the Night (Original Version)",
+        "artist": "Silent Circle"
+      }
+    ],
+    "Brazilian - Funk & MPB": [
+      {
+        "id": 3148696,
+        "title": "Boa Sorte / Good Luck (feat. Ben Harper)",
+        "artist": "Vanessa Da Mata, Ben Harper"
+      },
+      {
+        "id": 308759346,
+        "title": "Carência de novinha",
+        "artist": "MC Durrony, MC Kevin o Chris, DJ Biel do Furduncinho"
+      },
+      {
+        "id": 288723978,
+        "title": "Emorio",
+        "artist": "Trinix, Fafá De Belém"
+      },
+      {
+        "id": 393152734,
+        "title": "Menina de Vermelho",
+        "artist": "MC Menor JP, RAMONMIX, The Ironix"
+      },
+      {
+        "id": 395395441,
+        "title": "Menina do Job Vs Viciada em Sentar",
+        "artist": "Dj Junior Sales, MC Th, MC Xangai"
+      },
+      {
+        "id": 390985598,
+        "title": "Tic, tic, tac",
+        "artist": "Carrapicho"
+      },
+      {
+        "id": 336141995,
+        "title": "TUMBÁTUM",
+        "artist": "Tropa do Bruxo, Smu, DJ Vitin do PC, Mc Jf, MC NAHARA"
+      },
+      {
+        "id": 432900141,
+        "title": "Vaitimbora",
+        "artist": "Mari Froes, Trinix"
+      },
+      {
+        "id": 134940542,
+        "title": "Olha a Explosão",
+        "artist": "Mc Kevinho"
+      },
+      {
+        "id": 391781132,
+        "title": "Tava Aqui",
+        "artist": "French Fuse, RUAN VITOR VAQUEIRINHO"
+      },
+      {
+        "id": 464384007,
+        "title": "Vaitimbora",
+        "artist": "Mari Froes"
+      }
+    ],
+    "Classic Rock & Oldies": [
+      {
+        "id": 77616129,
+        "title": "Behind Blue Eyes",
+        "artist": "The Who"
+      },
+      {
+        "id": 36379797,
+        "title": "California Dreamin'",
+        "artist": "The Mamas & The Papas"
+      },
+      {
+        "id": 147044,
+        "title": "Don't Let Me Be Misunderstood",
+        "artist": "The Animals"
+      },
+      {
+        "id": 12454031,
+        "title": "Elenore",
+        "artist": "The Turtles"
+      },
+      {
+        "id": 12445712,
+        "title": "Happy Together",
+        "artist": "The Turtles"
+      },
+      {
+        "id": 69500580,
+        "title": "Hooked on a Feeling (Guadians of the Galaxy)",
+        "artist": "Voidoid"
+      },
+      {
+        "id": 3257362,
+        "title": "Magic",
+        "artist": "PILOT"
+      },
+      {
+        "id": 74417485,
+        "title": "The Passenger",
+        "artist": "Iggy Pop"
+      },
+      {
+        "id": 49783121,
+        "title": "Those Were The Days",
+        "artist": "Mary Hopkin"
+      }
+    ],
+    "House, Dance & Electronic": [
+      {
+        "id": 419534275,
+        "title": "All Around Me",
+        "artist": "Luna Orbit, Master Produções Remix"
+      },
+      {
+        "id": 121891466,
+        "title": "Baianá",
+        "artist": "Bakermat"
+      },
+      {
+        "id": 414920872,
+        "title": "Call My Name",
+        "artist": "Shouse"
+      },
+      {
+        "id": 291584592,
+        "title": "Fox on the Run (From \"Guardians of the Galaxy\")",
+        "artist": "Crazee Noize"
+      },
+      {
+        "id": 191804761,
+        "title": "Just Feels Tight",
+        "artist": "FISHER"
+      },
+      {
+        "id": 387052665,
+        "title": "Nightcall",
+        "artist": "Kavinsky, Angèle, phoenix"
+      },
+      {
+        "id": 361659547,
+        "title": "No Hablo Español",
+        "artist": "Riordan"
+      },
+      {
+        "id": 415417938,
+        "title": "Say It Right x Glue (Medley Version)",
+        "artist": "Turbocharged Titans"
+      },
+      {
+        "id": 441947043,
+        "title": "Soleil Bleu",
+        "artist": "Bleu Soleil, Luiza"
+      },
+      {
+        "id": 107816865,
+        "title": "You Little Beauty",
+        "artist": "FISHER"
+      },
+      {
+        "id": 476361906,
+        "title": "Mare Nero",
+        "artist": "carbeau"
+      }
+    ],
+    "Latin - Cumbia & Salsa": [
+      {
+        "id": 102617650,
+        "title": "El Paso Del Gigante",
+        "artist": "Grupo Soñador"
+      },
+      {
+        "id": 48747665,
+        "title": "El Preso (Nueva Versión)",
+        "artist": "Fruko Y Sus Tesos, Wilson \"Saoko\" Manyoma"
+      },
+      {
+        "id": 4935717,
+        "title": "Escándalo",
+        "artist": "Margarita la diosa de la cumbia"
+      },
+      {
+        "id": 153262267,
+        "title": "Guajira Con Arpa",
+        "artist": "Hugo Blanco"
+      },
+      {
+        "id": 20121338,
+        "title": "La Danza de los Simpsons",
+        "artist": "Chicha Libre"
+      },
+      {
+        "id": 74809642,
+        "title": "Machetes a la Caña",
+        "artist": "Los Orientales de Paramonga"
+      },
+      {
+        "id": 71665039,
+        "title": "Mil Horas",
+        "artist": "La Sonora Dinamita, Los Primos MX"
+      },
+      {
+        "id": 292224895,
+        "title": "Quédate Luna",
+        "artist": "Natalia Doco"
+      },
+      {
+        "id": 377401175,
+        "title": "Rosa (Que Linda Eres)",
+        "artist": "Trinix Remix, Jorge Aguilar Y Sus Embelecos, Oriana Melissa, Totó La Momposina"
+      },
+      {
+        "id": 389648516,
+        "title": "Despues de Ti",
+        "artist": "Los inquietos del vallenato"
+      },
+      {
+        "id": 39857380,
+        "title": "Esa Mujer",
+        "artist": "Tony Vega"
+      },
+      {
+        "id": 80365212,
+        "title": "Murio la Flor",
+        "artist": "Los Angeles Negros"
+      },
+      {
+        "id": 389437222,
+        "title": "Y Para Que",
+        "artist": "Los Caballeros de la cantina"
+      },
+      {
+        "id": 91611637,
+        "title": "Es Mejor la Otra",
+        "artist": "Maro El Internacional"
+      },
+      {
+        "id": 389435879,
+        "title": "En la Mala No",
+        "artist": "Los Caballeros de la cantina"
+      },
+      {
+        "id": 5911295,
+        "title": "Porque te vas",
+        "artist": "Jeanette"
+      },
+      {
+        "id": 98684413,
+        "title": "Porque Te Alejas",
+        "artist": "Hernán Jaramillo"
+      },
+      {
+        "id": 369340119,
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G"
+      },
+      {
+        "id": 71130078,
+        "title": "Pastillas de Amnesia ( Primera Fila ) (En Vivo)",
+        "artist": "Bronco"
+      }
+    ],
+    "Modern Rock, Pop & Indie": [
+      {
+        "id": 397351255,
+        "title": "Beanie",
+        "artist": "Chezile"
+      },
+      {
+        "id": 82033139,
+        "title": "Beggin'",
+        "artist": "Måneskin"
+      },
+      {
+        "id": 58990486,
+        "title": "Creep",
+        "artist": "Radiohead"
+      },
+      {
+        "id": 309896,
+        "title": "Dani California",
+        "artist": "Red Hot Chili Peppers"
+      },
+      {
+        "id": 1765487,
+        "title": "Glory Box",
+        "artist": "Portishead"
+      },
+      {
+        "id": 270528192,
+        "title": "GOSSIP (feat. Tom Morello)",
+        "artist": "Måneskin, Tom Morello"
+      },
+      {
+        "id": 235496838,
+        "title": "I Got Summer On My Mind",
+        "artist": "Jay Dunham"
+      },
+      {
+        "id": 84192580,
+        "title": "Little Dark Age",
+        "artist": "MGMT"
+      },
+      {
+        "id": 1795001,
+        "title": "Lonely Day",
+        "artist": "System Of A Down"
+      },
+      {
+        "id": 1219375,
+        "title": "Relax, Take It Easy",
+        "artist": "MIKA"
+      },
+      {
+        "id": 361101708,
+        "title": "Roi - Instrumental",
+        "artist": "Luke Willies"
+      },
+      {
+        "id": 3138031,
+        "title": "Sick and Tired",
+        "artist": "Anastacia"
+      },
+      {
+        "id": 345332261,
+        "title": "Training Season",
+        "artist": "Dua Lipa"
+      },
+      {
+        "id": 304849,
+        "title": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers"
+      },
+      {
+        "id": 91826121,
+        "title": "Washing Machine Heart",
+        "artist": "Mitski"
+      }
+    ],
+    "Reggae & Dub": [
+      {
+        "id": 90103166,
+        "title": "Baby, I Love Your Way",
+        "artist": "Big Mountain"
+      },
+      {
+        "id": 105505844,
+        "title": "Chase The Devil",
+        "artist": "Max Romeo, The Upsetters"
+      },
+      {
+        "id": 173684466,
+        "title": "Petite Marie (Fanzine Remix)",
+        "artist": "Biga Ranx"
+      },
+      {
+        "id": 52136158,
+        "title": "Smokin' Love (with Collie Buddz)",
+        "artist": "Stick Figure, Collie Buddz"
+      },
+      {
+        "id": 52136152,
+        "title": "Sound of the Sea",
+        "artist": "Stick Figure"
+      }
+    ],
+    "World - ME, Slavic & Asia": [
+      {
+        "id": 118079793,
+        "title": "3 Daqat",
+        "artist": "ABU"
+      },
+      {
+        "id": 2530643,
+        "title": "Abdel Kader",
+        "artist": "Rachid Taha, Faudel, Khaled"
+      },
+      {
+        "id": 370028154,
+        "title": "Janona",
+        "artist": "G'aybulla Tursunov"
+      },
+      {
+        "id": 22939229,
+        "title": "Mecbursun",
+        "artist": "Sertab"
+      },
+      {
+        "id": 231976204,
+        "title": "Mundian to Bach Ke",
+        "artist": "Panjabi MC"
+      },
+      {
+        "id": 95948463,
+        "title": "Nour El Ein",
+        "artist": "Amr Diab"
+      },
+      {
+        "id": 339022168,
+        "title": "Saharlarda",
+        "artist": "Dilnoz"
+      },
+      {
+        "id": 74145462,
+        "title": "Sidi Mansour",
+        "artist": "Saber Rebai"
+      },
+      {
+        "id": 313989063,
+        "title": "Витаминка",
+        "artist": "Тима Белорусских"
+      },
+      {
+        "id": 57793334,
+        "title": "Мальчик хочет в Тамбов",
+        "artist": "Мурат Насыров"
+      },
+      {
+        "id": 67885752,
+        "title": "Мой мармеладный (Я не права)",
+        "artist": "Катя Лель"
+      },
+      {
+        "id": 321487369,
+        "title": "Холодок",
+        "artist": "Мэвл"
+      },
+      {
+        "id": 275483187,
+        "title": "Jogi",
+        "artist": "Panjabi MC"
+      }
+    ]
+  }
+}

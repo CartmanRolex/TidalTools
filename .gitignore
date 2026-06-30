@@ -1,0 +1,21 @@
+# --- Secrets: NEVER commit ---
+# session.json holds Tidal OAuth access + refresh tokens (full account access)
+session.json
+# .env: any future API keys / local config
+.env
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- Regenerable library cache / personal data (recreate with fetch.py / enrich.py) ---
+data/playlists.json
+data/genres.json
+data/report.md
+data/unclassified.json
+
+# --- Scratch dumps ---
+data/_*.txt
+
+# Tracked on purpose: data/classification.json (the song->category mapping)
