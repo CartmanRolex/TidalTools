@@ -8,7 +8,7 @@ scripted. Goal: every new favorite ends up assigned to a category (or recorded a
 - **`../data/unclassified.json`** — the worklist: songs in My Music not yet in any category.
   Each entry has `id`, `title`, `artist`, `year`, `bpm`, `key`, and `genre_tags` (MusicBrainz
   tags, only if `enrich.py` has been run — may be empty).
-- **`CATEGORIES.md`** — the taxonomy: the 8 categories, what each means, and the rules.
+- **`CATEGORIES.md`** — the taxonomy: the 10 categories, what each means, and the rules.
 - **`../data/genres.json`** *(optional)* — MusicBrainz artist→tags; already merged into the
   worklist's `genre_tags`. Run `python enrich.py` first if you want these as a hint.
 
@@ -17,7 +17,7 @@ scripted. Goal: every new favorite ends up assigned to a category (or recorded a
    "Worklist empty", there is nothing to do — stop.
 2. **For each song in `unclassified.json`**, decide its category using `CATEGORIES.md`
    (title + artist + year + tags). Use your own music knowledge; `genre_tags` is only a hint.
-   - Fits one of the 8 → assign it there.
+   - Fits one of the 10 → assign it there.
    - Fits none, and it's a one-off oddity (e.g. classical) → mark it an **outlier**.
    - Fits none, but several new songs form a clear new cluster → **stop and ask the user**
      whether to create a new category (give the proposed name + the songs). Do not invent a

@@ -12,11 +12,13 @@ mapping lives in [`../data/classification.json`](../data/classification.json).
 | **80s & Retro Pop** | Synth-pop, Euro-disco, new wave, NDW, 80s pop. The biggest cluster. | Alphaville, Modern Talking, OMD, Bad Boys Blue, Bonnie Tyler, Madness |
 | **Classic Rock & Oldies** | 60s–70s rock & oldies. | The Who, The Turtles, The Animals, Iggy Pop, The Mamas & The Papas |
 | **Modern Rock, Pop & Indie** | Alt-rock, indie, and contemporary pop (90s–today). | Radiohead, Måneskin, RHCP, MGMT, Mitski, Dua Lipa, Portishead |
-| **Latin - Cumbia & Salsa** | Cumbia, salsa, vallenato, and Andean (incl. ex-Colombia/Peru tracks). | Fruko Y Sus Tesos, La Sonora Dinamita, Grupo Soñador, Chicha Libre |
+| **Latin - Cumbia, Salsa & Tropical** | Cumbia, salsa, vallenato, Andean and electro-tropical. | Fruko Y Sus Tesos, Grupo Soñador, Chicha Libre, Bomba Estéreo |
+| **Latin - Pop, Folk & Ballads** | Latin pop, rancheras, boleros, folk and ballads. | Shakira, Los Angeles Negros, Bronco, Jeanette, Onda Vaga, Karol G |
 | **Brazilian - Funk & MPB** | Brazilian funk, baile, and MPB (incl. ex-Brazil tracks). | MC Kevinho, Carrapicho, Vanessa Da Mata, Trinix (BR collabs) |
 | **Reggae & Dub** | Reggae and dub. | Stick Figure, Max Romeo, Big Mountain, Biga Ranx |
 | **House, Dance & Electronic** | Tech-house, deep house, synthwave, club remixes/mashups. | FISHER, Bakermat, Kavinsky, Shouse, Riordan |
-| **World - ME, Slavic & Asia** | Arabic/raï, Turkish, bhangra, Russian, Uzbek & Central-Asian pop. | Amr Diab, Rachid Taha, Panjabi MC, Катя Лель, Dilnoz |
+| **World - Africa & Middle East** | Arabic/raï, Levantine pop/indie, West/Central African. | Amr Diab, Rachid Taha, Cheikh Lô, Mashrou' Leila, Aziz Maraka |
+| **World - Slavic, Caucasus & Asia** | Russian, Turkish, Armenian/Georgian, bhangra, Uzbek & Central-Asian pop. | Катя Лель, Sertab, Panjabi MC, Dilnoz, Mandili, Ladaniva |
 
 ## Rules
 
@@ -28,5 +30,5 @@ mapping lives in [`../data/classification.json`](../data/classification.json).
   *My Music* with no category. Record it under `outliers` in `classification.json` so it is not
   flagged again. There is currently one outlier: *Beethoven — Symphony No. 7 (Allegretto)*.
 - **New categories**: only when several recent additions form a clear cluster that fits none of the
-  8 above (e.g. a batch of jazz or hip-hop). **Propose it and ask the user before creating it.**
+  10 above (e.g. a batch of jazz or hip-hop). **Propose it and ask the user before creating it.**
   See [`CLASSIFY_RUNBOOK.md`](CLASSIFY_RUNBOOK.md).
